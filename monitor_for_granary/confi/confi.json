@@ -1,0 +1,14 @@
+{
+    "chart1": {
+        "max": 40,
+        "min": 0,
+        "remindValue": 25,
+        "waringValue": 30
+    },
+    "chart2": {
+        "max": 100,
+        "min": 0,
+        "remindValue": 60,
+        "waringValue": 65
+    }
+}
